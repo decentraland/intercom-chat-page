@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel serve src/index.html src/chat.html",
-    "build": "parcel build src/index.html src/chat.html"
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
