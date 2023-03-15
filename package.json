@@ -7,6 +7,9 @@
     "start": "parcel serve src/index.html",
     "build": "parcel build src/index.html"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/decentraland/intercom-chat-page.git"
